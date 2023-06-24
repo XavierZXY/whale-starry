@@ -1,7 +1,7 @@
+#include "myvector.h"
+
 #include <iostream>
 #include <vector>
-
-#include "myvector.h"
 
 int main() {
   // construct
